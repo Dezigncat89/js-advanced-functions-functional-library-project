@@ -5,19 +5,19 @@ const fi = (function() {
     },
 
     each: function() {
-
+      //code here
     },
 
     map: function() {
-
+      //code here
     },
 
     reduce: function() {
-
+      //code here
     },
 
     functions: function() {
-
+       //code here
     },
 
 
